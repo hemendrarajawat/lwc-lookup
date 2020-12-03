@@ -1,2 +1,2 @@
 tasks:
-  - init: npm init && npm install --global sfdx-cli
+  - init: npm install --global sfdx-cli && npm install
